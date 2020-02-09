@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37367487-3e24-460e-9fb0-23f470c13843" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../beats_tempo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../beats_tempo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songs/Accelerator.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../songs/Accelerator.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songs/David Bowie - Let's Dance.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../songs/David Bowie - Let's Dance.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songs/Don't ask me what is disco.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songs/FMP_C6_F01_Queen.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songs/FMP_C6_F01_Queen.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songs/FMP_C6_F01_Queen.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songs/Flowers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../songs/Flowers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songs/Snow Cat.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../songs/Snow Cat.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempo_beat.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WxnJzL365728JQHSZ1AjG5nIXh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/visualization.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="visualization" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="project_St" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/FMP/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37367487-3e24-460e-9fb0-23f470c13843" name="Default Changelist" comment="" />
+      <created>1580100045786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580100045786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580100112742">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580100112742" />
+    <state x="719" y="311" key="FileChooserDialogImpl" timestamp="1580100110564">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="719" y="311" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1580100110564" />
+    <state width="1894" height="276" key="GridCell.Tab.0.bottom" timestamp="1580100452591">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1894" height="276" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580100452591" />
+    <state width="1894" height="276" key="GridCell.Tab.0.center" timestamp="1580100452591">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1894" height="276" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580100452591" />
+    <state width="1894" height="276" key="GridCell.Tab.0.left" timestamp="1580100452591">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1894" height="276" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580100452591" />
+    <state width="1894" height="276" key="GridCell.Tab.0.right" timestamp="1580100452591">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1894" height="276" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580100452591" />
+    <state x="426" y="188" key="SettingsEditor" timestamp="1580100066683">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="426" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1580100066683" />
+  </component>
+</project>

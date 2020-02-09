@@ -1,3 +1,3 @@
 # FMP
 
-Exercise of Music Processing Analysis
+VJ project, visualize beats and tempo using pygame.
